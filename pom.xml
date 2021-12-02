@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
 	      <url>http://3.89.161.59:8081/repository/Ebay-backtoschool-snaoshot/</url>
 	    </snapshotRepository>
 	    
